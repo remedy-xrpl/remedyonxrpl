@@ -1,1 +1,17 @@
+[[ISSUERS]]
+address = "rZqjERGFNmWVEbyC1ny1DkMRExH85UhqE"
+name = "REMEDY"
+desc = "Official issuer of the REMEDY wellness token on the XRP Ledger."
+website = "https://remedyonxrpl.com"
 
+[[TOKENS]]
+issuer = "rZqjERGFNmWVEbyC1ny1DkMRExH85UhqE"
+currency = "52454D454459"
+name = "REMEDY"
+desc = "REMEDY is a terpene-powered wellness ecosystem token built on XRPL."
+icon = "https://raw.githubusercontent.com/remedy-xrpl/remedyonxrpl/main/logo.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://remedyonxrpl.com"
+type = "website"
+title = "Official Website"
