@@ -9,7 +9,7 @@ issuer = "rZqjERGFNmWVEbyC1ny1DkMRExH85UhqE"
 currency = "52454D454459"
 name = "REMEDY"
 desc = "REMEDY is a terpene-powered wellness ecosystem token built on XRPL."
-icon = "https://raw.githubusercontent.com/remedy-xrpl/remedyonxrpl/main/logo.png"
+icon = "https://remedy-xrpl.github.io/remedyonxrpl/logo.png"
 
 [[TOKENS.WEBLINKS]]
 url = "https://remedyonxrpl.com"
